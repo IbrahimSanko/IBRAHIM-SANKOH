@@ -1,0 +1,12 @@
+Grades
+.....		......
+
+ALPHA        A
+
+OSMAN		 C
+
+IDRISSA	 B
+
+ISSA 		 A
+
+UMARA		 C
